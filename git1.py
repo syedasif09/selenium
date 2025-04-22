@@ -5,3 +5,6 @@ print("change something in this code")
 print("some other statement" \
 "")
 print("some other changes")
+c=23
+h=c*a/b
+print(h)
