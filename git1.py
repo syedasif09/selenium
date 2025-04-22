@@ -8,3 +8,4 @@ print("some other changes")
 c=23
 h=c*a/b
 print(h)
+print(c)
